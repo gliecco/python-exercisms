@@ -1,0 +1,4 @@
+.exercism
+exchange_test
+HELP
+HINTS
