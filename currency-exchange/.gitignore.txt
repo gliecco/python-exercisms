@@ -1,4 +1,4 @@
 .exercism
-exchange_test
-HELP
-HINTS
+exchange_test.py
+HELP.md
+HINTS.md
