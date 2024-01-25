@@ -1,7 +1,6 @@
 # Collatz Conjecture
 
 Welcome to Collatz Conjecture on Exercism's Python Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
 
