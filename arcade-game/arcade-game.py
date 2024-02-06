@@ -1,6 +1,3 @@
-"""Functions for implementing the rules of the classic arcade game Pac-Man."""
-
-
 def eat_ghost(power_pellet_active, touching_ghost):
     return power_pellet_active and touching_ghost
 
