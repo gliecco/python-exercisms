@@ -14,7 +14,7 @@ def classify(number):
     if sum(divisors(number)) == number * 2:
         return 'perfect'
 
-    if sum(divisors(number)) < number * 2:
-        return 'deficient'
+    if sum(divisors(number)) > number * 2:
+        return 'abundant'
 
-    return 'abundant'
+    return 'deficient'
